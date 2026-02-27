@@ -23,30 +23,7 @@ GigBit provides one connected financial operations system:
 - Shared Backend (Node.js + TypeScript): consistent business logic
 - Reliable Data Layer: PostgreSQL + Redis
 
-## Repository Structure
 
-```txt
-GigBit1/
-  app/
-    backend/
-    database/
-    frontend/
-      flutter_app/
-    releases/
-  web/
-    backend/
-      api/
-    database/
-    frontend/
-      assets/
-  docs/
-    screenshots/
-    progress-log.md
-    architecture.md
-  scripts/
-  README.md
-  LICENSE
-```
 
 ## Team Contribution Split
 
