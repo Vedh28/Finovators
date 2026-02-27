@@ -171,21 +171,6 @@ Each module owns a focused responsibility while sharing a common backend contrac
 
 ---
 
-## Folder Structure
-
-Repository layout is split for app and web with separate frontend/backend/database folders:
-
-- `app/frontend/flutter_app`  
-- `app/backend`  
-- `app/database`  
-- `web/frontend`  
-- `web/backend/api`  
-- `web/database`
-
-Structure is designed to keep worker app and web/admin concerns isolated while sharing backend contracts.
-
----
-
 ## Standardized Data & Flows
 
 GigBit standardizes:
